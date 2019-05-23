@@ -4,3 +4,5 @@ env
 out
 **/*.pyc
 **/__pycache__
+src/input.txt
+src/output.txt
